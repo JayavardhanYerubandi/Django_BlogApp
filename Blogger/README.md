@@ -1,4 +1,4 @@
-📝 Django Blog Application
+##📝 Django Blog Application
 A full-featured blog platform built with Django, allowing users to create, manage, and publish blog posts securely and easily.
 
 🔗 Live Demo: https://your-render-app.onrender.com
